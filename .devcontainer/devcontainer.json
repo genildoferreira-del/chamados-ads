@@ -1,0 +1,5 @@
+{
+  "name": "Projeto Flask",
+  "image": "://microsoft.com",
+  "postCreateCommand": "pip install -r requirements.txt"
+}
